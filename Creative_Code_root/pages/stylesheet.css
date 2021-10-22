@@ -1,0 +1,59 @@
+
+
+html{font-family: 'Work Sans', sans-serif;
+
+}
+h1{
+    color:#297373;
+    font-style: italic;
+    font-size: x-large;
+    border-bottom: #297373;
+    clear: both;
+    width: 900px;
+    height: 50px;
+    text-align: center
+}
+h2{ 
+    color:#eab676;
+    font-style: italic;
+    font-size: large;
+    clear:both;
+    width: 900px;
+    height: 50px;
+    text-align: center  
+}
+h4{
+    color:#eeeee4;
+    font-style: normal;
+    font-size: normal;
+    clear: both;
+    width: 900px;
+    height: 50px;
+    text-align: center 
+    
+}
+p{
+    color:#21130d;
+    font-style: normal;
+    font-size: normal;
+    clear: both;
+    width: 900px;
+    height: 50px;
+    text-align: center;
+}
+button{
+    
+    font-style: normal;
+    font-size: normal;
+    clear: both;
+    width: 200px;
+    height: 50px;
+    align-self: auto;
+    
+}
+iframe{
+    width: 600px;
+    height: 600px;
+    padding-left: 150px;
+    align-content: center;
+}
